@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/letao-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/letao-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/letao-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/letao-provider-uac" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/letao-provider-uac/letao-provider-uac-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/letao-provider-uac/letao-provider-uac-service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

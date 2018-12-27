@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/letao.iml" filepath="$PROJECT_DIR$/.idea/letao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letao-api-gateway/letao-api-gateway.iml" filepath="$PROJECT_DIR$/letao-api-gateway/letao-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letao-common/letao-common.iml" filepath="$PROJECT_DIR$/letao-common/letao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letao-eureka/letao-eureka.iml" filepath="$PROJECT_DIR$/letao-eureka/letao-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letao-provider-uac/letao-provider-uac.iml" filepath="$PROJECT_DIR$/letao-provider-uac/letao-provider-uac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letao-provider-uac/letao-provider-uac-api/letao-provider-uac-api.iml" filepath="$PROJECT_DIR$/letao-provider-uac/letao-provider-uac-api/letao-provider-uac-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letao-provider-uac/letao-provider-uac-service/letao-provider-uac-service.iml" filepath="$PROJECT_DIR$/letao-provider-uac/letao-provider-uac-service/letao-provider-uac-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -11,7 +11,6 @@
         <module>letao-eureka</module>
         <module>letao-api-gateway</module>
         <module>letao-common</module>
-        <module>letao-service-uac</module>
         <module>letao-provider-uac</module>
     </modules>
     <packaging>pom</packaging>
