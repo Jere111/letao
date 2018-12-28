@@ -1,0 +1,25 @@
+server:
+  port: 10082
+spring:
+  profiles:
+    active: dev
+  application:
+    name: api-gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10081/eureka
+    registry-fetch-interval-seconds: 5
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 7000
+ribbon:
+  connectTimeout: 500
+  readTimeout: 5000
